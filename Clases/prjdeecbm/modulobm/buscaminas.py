@@ -1,4 +1,4 @@
-# @autor : Kevin Yesid Vasquez
+# @autor : David Esteban Echecheverri Cardenas
 # @fecha : 19 octubre 2023
 # @ficha : 2740559 
 # @Description : funciones para el back-end and front-end del juego de buscaminas

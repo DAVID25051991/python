@@ -1,4 +1,4 @@
-# @autor: Kevin Yesid Vasquez Cartagena
+# @autor: David Esteban Echecheverri Cardenas 
 # @fecha : 17 octubre 2023
 # @ficha : 2740559
 # @ descripcion : Definicion y ejecucion de funciones

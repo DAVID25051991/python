@@ -1,4 +1,4 @@
-# @autor : Kevin Yesid Vasquez
+# @autor : David Esteban Echecheverri Cardenas
 # @fecha : 26 octubre 2023
 # @ficha : 2740559 
 # @Description : modulo para la ventana de dialogo buscaminas.ui

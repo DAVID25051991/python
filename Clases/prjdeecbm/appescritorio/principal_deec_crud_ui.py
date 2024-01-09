@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 
-# Form implementation generated from reading ui file 'f:\Users\esteb\Documents\Python_1\Clases\prjkyvcbm\appescritorio\principal_deec_crud.ui'
+# Form implementation generated from reading ui file 'f:\Users\esteb\Documents\Python_1\Clases\prjdeecbm\appescritorio\principal_deec_crud.ui'
 #
 # Created by: PyQt5 UI code generator 5.15.10
 #

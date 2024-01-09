@@ -1,5 +1,5 @@
 # # @ficha : 2740559
-# # @autor : KEVIN YESID VASQUEZ CARTAGENA
+# # @autor : David Esteban Echecheverri Cardenas 
 # # @fehca : 2023/10/05
 # #@descripcion : ejercicio de python
 
@@ -54,7 +54,7 @@
 # # nombres y apellidos completos, numero del celular, correo , redes sociales.
 # # datos almacenados en variables
 
-# name = "Kevin Yesid Vasquez Cartagena"
+# name = "David Esteban Echecheverri Cardenas "
 # number = 3150870829
 # correo = "Kesvin200324@gmail.com"
 # cargo = "Estudiante"

@@ -1,9 +1,9 @@
-# @autor: Kevin Yesid Vasquez Cartagena
+# @autor: David Esteban Echecheverri Cardenas 
 # @fecha : 17 octubre 2023
 # @ficha : 2740559
 # @ descripcion : Programa principal que utiliza un modulo-paquete o librerio personalizada
 
-import funciones_kyvc as funciones
+import funciones_deec as funciones
 
 # programa principal
 # Realiza la suma de dos numeros utilizando funciones 

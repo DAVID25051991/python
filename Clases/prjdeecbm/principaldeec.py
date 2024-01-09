@@ -1,4 +1,4 @@
-# @autor : Kevin Yesid Vasquez
+# @autor : David Esteban Echbmecheverri Cardenas
 # @fecha : 19 octubre 2023
 # @ficha : 2740559 
 # @Description : programa principal el juego de buscaminas

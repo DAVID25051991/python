@@ -1,4 +1,4 @@
-# @autor : Kevin Yesid Vasquez
+# @autor : David Esteban Echecheverri Cardenas
 # @fecha : 24 octubre 2023
 # @ficha : 2740559 
 # @Description : programa principal para el aplicativo de escritorio
@@ -7,7 +7,7 @@
 from fileinput import close
 import time
 
-from modulobm.bmkyvcesc import DlgBuscaminas as dlgbm
+from modulobm.bmdeecesc import DlgBuscaminas as dlgbm
 
 # modulos o paquetes de pyqt5
 # from PyQt5 import QtGui
